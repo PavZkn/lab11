@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/interfaces/GiveSize.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/classes/chains/ChainContainer.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/classes/chains/Query.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/classes/arrays/ArrayContainer.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/interfaces/DelItem.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/classes/arrays/Array.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/classes/ContainerOfItems.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/interfaces/AddItem.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/classes/TreeContainer.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/classes/arrays/Stack.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/classes/Item.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/model/items/interfaces/IsEmpty.java</file>
+            <file>file:/D:/лабы/java/JavaApplication2/src/mybusness/MyBusness.java</file>
+        </group>
+    </open-files>
+</project-private>
